@@ -1,0 +1,1 @@
+Lightr is an XMPP and BOSH client written in object-oriented PHP5. It is intended to be run on-interval by an AJAX-enabled frontend and utilizes the CURL library to handle connections with a BOSH server.
